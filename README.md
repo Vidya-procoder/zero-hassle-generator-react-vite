@@ -1,0 +1,1 @@
+# zero-hassle-generator-react-vite
